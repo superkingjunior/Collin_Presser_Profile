@@ -1,6 +1,6 @@
 .container {
     margin: auto;
-    max-width: 500px;
+    max-width: 750px;
     font-family: sans-serif;
 }
 .heading {
@@ -16,4 +16,10 @@
 }
 .nav-link-text {
     color: black;
+}
+.center {
+    margin-left: 25%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 50%;
 }
